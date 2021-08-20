@@ -1,9 +1,9 @@
 h1 {
-	color: #324A7E; 
+	color: gray; 
 	font-size: 60px; 
 	text-align: center;
 	border: 2px solid gray;
-	text-decoration: underline #3A5693;
+	text-decoration: underline gray;
 }
 
 
