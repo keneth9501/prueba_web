@@ -23,3 +23,23 @@ h2 {
 	background-color: green;
 	 height: 1px;  
 }
+
+.SECUNDARIA{
+	
+	color: gray; 
+	font-size: 20px; 
+	text-align: left;
+    text-decoration: underline gray;
+    font-family: verdana;
+
+}
+
+.UNIV{
+	
+	color: gray; 
+	font-size: 20px; 
+	text-align: left;
+    text-decoration: underline gray;
+    font-family: verdana;
+
+}
